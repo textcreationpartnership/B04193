@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The French King's proposal for peace. In a letter from the Hague, July 13.</title>
+            <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04193</idno><idno type="EEBO-CITATION">53981681</idno>
+  <idno type="VID">180279</idno>
+  <idno type="EEBO-PROQUEST">2240883770</idno>
+  
+            <idno type="STC">Wing L3137A</idno>
+            <idno type="STC">ESTC R180088</idno>
+            <idno type="OCLC">53981681</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180279)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The French King's proposal for peace. In a letter from the Hague, July 13.</title>
+                  <author>France. Sovereign (1643-1715 : Louis XIV)</author>
+                  <author>Louis XIV, King of France, 1638-1715.</author>
+               </titleStmt>
+               <extent>[2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year M DC XC VI [1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Grand Alliance, War of the, 1689-1697 --  Peace --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:180279:1"/>
+            <head>THE FRENCH KING'S PROPOSALS FOR A PEACE. In a Letter from the <hi>Hague,</hi>
+               <date>July 13.</date>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Wish I could give you a direct Answer to your Questions concerning a General Peace. 'Tis true, they talk of it here as much as in any other part of <hi>Europe,</hi> and 'tis confidently said, that Two Deputies of <hi>France</hi> are in this Country; but if it be so certainly they must lie ve<g ref="char:EOLhyphen"/>ry private, since no body that I know of has seen them. Count <hi>Caunitz</hi> the Imperial Plenipotentiary has, we hear, communicated to the Con<g ref="char:EOLhyphen"/>gress some Proposals made by the <hi>French</hi> King to the Emperor through the Mediation of the King of <hi>Sweden,</hi> and several Copies are handed about by the Emissaries of <hi>France;</hi> One of them is faln into my hand, and I thought I could not better answer your Letter than in sending you the said Proposals, though I would not swear to the Truth of every Article, but take them such as we have them here.</p>
+            <p n="1">I. The most Christian King being sensible of the Miseries <hi>Europe</hi> is in<g ref="char:EOLhyphen"/>volved in by this fatal War, and being willing to contribute as much as 'tis consisting with his Honour and Interest towards a lasting Peace in Chri<g ref="char:EOLhyphen"/>stendom, offers as a Preliminary to a General Treaty, to own the Prince of <hi>Orange</hi> for King of <hi>Great Britain,</hi> and to treat with him as such. And His Majesty is pleased to declare, that he will accept what Place the <hi>Al<g ref="char:EOLhyphen"/>lies</hi> will choose for carrying on the Negotiations.</p>
+            <p n="2">II. Though large Concessions were made to his most Christian Majesty by the Emperor, and the Empire in the Treaty of Peace conclu<g ref="char:EOLhyphen"/>ded at <hi>Nimeghen, Febr.</hi> 5. 1679, and by a Treaty of Truce concluded at <hi>Ratisbone, Aug.</hi> 5. 1684, yet his most Christian Majesty to shew his earnest desires to put an end to his fatal War, and establish a firm Peace in the Christian World, is willing to restore all Things as they were esta<g ref="char:EOLhyphen"/>blished by the Treaty concluded at <hi>Munster, October</hi> 24. 1648.</p>
+            <p n="3">III. His Majesty therefore offers to restore the City of <hi>Strasburgh</hi> to its ancient Rights, Liberties, and Privileges, and renounce all claims of So<g ref="char:EOLhyphen"/>vereignty in <hi>Alsace,</hi> otherwise, than it is provided for in the said Treaty of <hi>Munster,</hi> to demolish <hi>Huninghen</hi> and other Forts, which have been built since, and against the Intention of that Treaty.</p>
+            <p n="4">IV. His most Christian Majesty is also willing to restore the Dutchies of <hi>Lorrain</hi> and <hi>Bar,</hi> to the Duke of <hi>Lorrain,</hi> and to part with the Town of <hi>Nancy,</hi> yielded unto him by the 13th Article of the aforesaid Treaty of <hi>Nimeghen,</hi> as also with the Property of the <hi>Four-broad-ways</hi> mentioned in the 14th Article, contenting himself with the right of Marching his For<g ref="char:EOLhyphen"/>ces,
+<pb facs="tcp:180279:2"/>when occasion shall require it, through <hi>Lorrain</hi> without insisting on the Property of the Towns and Villages that are within the extent of those ways, prescribed by the said Article.</p>
+            <p n="5">V. The <hi>Spaniards</hi> having without any just Provocation declared the War against <hi>France,</hi> his Majesty might very well insist that all things should be left as they are now, yet in consideration of the States-General, his Majesty is willing to restore to the <hi>Spaniards Charleroy, Mons, Courtray,</hi> the Dutchy and Town of <hi>Luxemburg,</hi> with all their Dependencies, and <hi>Ro<g ref="char:EOLhyphen"/>ses, Gircnne,</hi> and other places in <hi>Catalonia,</hi> and restore all other things, as they were settled by the Treaty concluded at <hi>Nimeghen, September</hi> 1678.</p>
+            <p n="6">VI. His Majesty is ready to renew the Treaties of Commerce, and other Treaties with the States-General, and establish a Sincere Correspondence between his Dominions and theirs.</p>
+            <p n="7">VII. His Majesty's Arms having taken nothing from the <hi>English,</hi> he offers to re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew all former Treaties with the Crown of <hi>England;</hi> provi<g ref="char:EOLhyphen"/>ded they will restore unto him what they have taken from the <hi>French,</hi> in the <hi>West-Indies.</hi>
+            </p>
+            <p n="8">VIII. The Duke of <hi>Savoy</hi> having violated the Alliance with his Ma<g ref="char:EOLhyphen"/>jesty, without any Colour of Pretence, should not be dealt withall with too great a Severity, if his Majesty would keep all his Con<g ref="char:EOLhyphen"/>quests, yet in Consideration of the Allies, and to take all Jealousy from the Princes of <hi>Italy;</hi> his Majesty is contented to restore the Dutchy of <hi>Savoy,</hi> the Towns of <hi>Suse, Nisse,</hi> and other Places that have been Re<g ref="char:EOLhyphen"/>duced by his Arms.</p>
+            <p>
+               <hi>These are the Conditions we are told the </hi>French<hi> King offers to the </hi>Allies,<hi> and now I must tell you in few Words what Terms they insist upon.</hi>
+            </p>
+            <p n="1">1. The Emperor is contented with the Restitution of the Treaties of <hi>Westphalia;</hi> provided the <hi>French</hi> King restores to the Duke of <hi>Lorrain</hi> his Dominions, without any Reservation, but with all the Prerogatives they were enjoyed by his Ancestors. 2. That his most Christian Majesty shall pay the Duke a Sum, in lieu of the Revenues of his Dutchies, which he has enjoyed. And <hi>3dly,</hi> That his Majesty shall pay another Sum to the Elector <hi>Palatine,</hi> Bishop of <hi>Spire,</hi> &amp;c. for the Devastation of their Coun<g ref="char:EOLhyphen"/>try.</p>
+            <p n="2">2. The King of <hi>Spain</hi> demands the Restitution of all the Places taken from him, and especially of the Country of <hi>Burgundy,</hi> since the year 1665; with a full Satisfaction of all the Damages his Subjects have sustained.</p>
+            <p n="3">3. The Duke of <hi>Savoy</hi> demands a Sum of Mony, and <hi>Pignerol;</hi> and the Restitution of all the <hi>French</hi> have taken from Him.</p>
+            <p n="4">4. The States General insist upon a Sum of Mony to defray the charge of the War, and the damage their Subjects have sustained thereby.</p>
+            <p>We don't hear what the <hi>English</hi> demand, but 'tis believed they will have <hi>Dunkirk,</hi> in Satisfaction for their Losses, and keep their Conquests in the <hi>West-Indies.</hi>
+            </p>
+            <p>This is the Sustance of what I have heard from some Gentlemen very well accquainted with Publick Affairs: The Terms demanded by the Allies will appear somewhat hard to the <hi>French</hi> King; yet things are, God be thanked, come to this pass, that he must receive Laws from the Prince that he so much despis'd. God bless the King of <hi>England</hi> s designs, and give him a glorious Campaign. We have reason to expect it, and this will mightly foreward the Peace. </p>
+            <closer>
+               <signed>Yours.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed in the Year MDCXCVI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
